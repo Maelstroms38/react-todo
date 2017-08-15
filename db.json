@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "name": "reduxxx",
+      "isComplete": true
+    },
+    {
+      "id": 2,
+      "name": "redux",
+      "isComplete": true
+    },
+    {
+      "id": 3,
+      "name": "load todos from local dev server",
+      "isComplete": false
+    },
+    {
+      "name": "hello",
+      "isComplete": false,
+      "id": 4
+    }
+  ]
+}
